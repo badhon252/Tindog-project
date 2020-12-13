@@ -1,0 +1,2 @@
+[1203/154201.988:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1203/161259.586:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\PACIFIC BD\AppData\Roaming\Brackets\live-dev-profile\Crashpad\attachments\f5663a0a-5a57-469c-8997-2205b4241d4f: The system cannot find the path specified. (0x3)
